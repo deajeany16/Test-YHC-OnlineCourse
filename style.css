@@ -1,0 +1,19 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    position:relative;
+    text-align: center;
+}
+
+th {
+    position:relative;
+    text-align: center;
+}
+
+nav img .navbar-brand {
+    height: 30px;
+    width: 30px;
+}
